@@ -1,5 +1,5 @@
 {
-  "name": "music-chart-dashboard",
+  "name": "music-chart-dashboard-backend",
   "version": "1.0.0",
   "description": "Music chart dashboard - hourly data for melon, genie, naver music, and bugs",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
   }
 }

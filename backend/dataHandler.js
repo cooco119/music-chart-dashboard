@@ -27,6 +27,11 @@ const swapOut = (data) => {
     const swap = JSON.parse(fs.readFileSync(`./data/${SWAP_FILE}`));
     swap.push(data);
     fs.writeFileSync(`./data/${SWAP_FILE}`, JSON.stringify(swap, null, 2));
+};
+
+const swapIn = () => {
+    const swap = JSON.parse(fs.readFileSync(`./data/${SWAP_FILE}`));
+    cache = swap;
 }
 
 const updateCache = async () => {
@@ -50,4 +55,5 @@ module.exports = {
     getRecentData,
     updateCache,
     getCache,
+    swapIn,
 }
