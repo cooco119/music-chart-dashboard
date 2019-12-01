@@ -4,78 +4,102 @@
     <div v-if="loaded">
       <div>
         <h3>멜론 실시간 차트</h3>
-        <md-table>
-          <md-table-row>
-            <md-table-head md-numeric>순위</md-table-head>
-            <md-table-head>타이틀</md-table-head>
-            <md-table-head>아티스트</md-table-head>
-          </md-table-row>
-          <md-table-row v-bind:key="elem" v-for="elem in data">
-            <md-table-cell md-numeric>{{ elem.data.melonData.rank }}</md-table-cell>
-            <md-table-cell>
-              <img :src="elem.data.melonData.albumImg" />
-              {{ elem.data.melonData.name }}
-            </md-table-cell>
-            <md-table-cell>{{ elem.data.melonData.artist }}</md-table-cell>
-          </md-table-row>
-        </md-table>
-      </div>>
+        <v-simple-table>
+          <template v-slot:default>
+            <thead>
+              <tr>
+                <th>순위</th>
+                <th>타이틀</th>
+                <th>아티스트</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-bind:key="elem" v-for="elem in data.melonData.data">
+                <td md-numeric>{{ elem.rank }}</td>
+                <td>
+                  <img :src="elem.albumImg" />
+                  {{ elem.name }}
+                </td>
+                <td>{{ elem.artist }}</td>
+              </tr>
+            </tbody>
+          </template>
+        </v-simple-table>
+      </div>
       <div>
         <h3>벅스 실시간 차트</h3>
-        <md-table>
-          <md-table-row>
-            <md-table-head md-numeric>순위</md-table-head>
-            <md-table-head>타이틀</md-table-head>
-            <md-table-head>아티스트</md-table-head>
-          </md-table-row>
-          <md-table-row v-bind:key="elem" v-for="elem in data">
-            <md-table-cell md-numeric>{{ elem.data.bugsData.rank }}</md-table-cell>
-            <md-table-cell>
-              <img :src="elem.data.bugsData.albumImg" />
-              {{ elem.data.bugsData.name }}
-            </md-table-cell>
-            <md-table-cell>{{ elem.data.bugsData.artist }}</md-table-cell>
-          </md-table-row>
-        </md-table>
-      </div>>
+        <v-simple-table>
+          <template v-slot:default>
+            <thead>
+              <tr>
+                <th>순위</th>
+                <th>타이틀</th>
+                <th>아티스트</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-bind:key="elem" v-for="elem in data.bugsData.data">
+                <td md-numeric>{{ elem.rank }}</td>
+                <td>
+                  <img :src="elem.albumImg" />
+                  {{ elem.name }}
+                </td>
+                <td>{{ elem.artist }}</td>
+              </tr>
+            </tbody>
+          </template>
+        </v-simple-table>
+      </div>
       <div>
         <h3>네이버 실시간 차트</h3>
-        <md-table>
-          <md-table-row>
-            <md-table-head md-numeric>순위</md-table-head>
-            <md-table-head>타이틀</md-table-head>
-            <md-table-head>아티스트</md-table-head>
-          </md-table-row>
-          <md-table-row v-bind:key="elem" v-for="elem in data">
-            <md-table-cell md-numeric>{{ elem.data.naverData.rank }}</md-table-cell>
-            <md-table-cell>
-              <img :src="elem.data.naverData.albumImg" />
-              {{ elem.data.naverData.name }}
-            </md-table-cell>
-            <md-table-cell>{{ elem.data.naverData.artist }}</md-table-cell>
-          </md-table-row>
-        </md-table>
-      </div>>
+        <v-simple-table>
+          <template v-slot:default>
+            <thead>
+              <tr>
+                <th>순위</th>
+                <th>타이틀</th>
+                <th>아티스트</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-bind:key="elem" v-for="elem in data.naverData.data">
+                <td md-numeric>{{ elem.rank }}</td>
+                <td>
+                  <img :src="elem.albumImg" />
+                  {{ elem.name }}
+                </td>
+                <td>{{ elem.artist }}</td>
+              </tr>
+            </tbody>
+          </template>
+        </v-simple-table>
+      </div>
       <div>
         <h3>지니 실시간 차트</h3>
-        <md-table>
-          <md-table-row>
-            <md-table-head md-numeric>순위</md-table-head>
-            <md-table-head>타이틀</md-table-head>
-            <md-table-head>아티스트</md-table-head>
-          </md-table-row>
-          <md-table-row v-bind:key="elem" v-for="elem in data">
-            <md-table-cell md-numeric>{{ elem.data.genieData.rank }}</md-table-cell>
-            <md-table-cell>
-              <img :src="elem.data.genieData.albumImg" />
-              {{ elem.data.genieData.name }}
-            </md-table-cell>
-            <md-table-cell>{{ elem.data.genieData.artist }}</md-table-cell>
-          </md-table-row>
-        </md-table>
+        <v-simple-table>
+          <template v-slot:default>
+            <thead>
+              <tr>
+                <th>순위</th>
+                <th>타이틀</th>
+                <th>아티스트</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-bind:key="elem" v-for="elem in data.genieData.data">
+                <td md-numeric>{{ elem.rank }}</td>
+                <td>
+                  <img :src="elem.albumImg" />
+                  {{ elem.name }}
+                </td>
+                <td>{{ elem.artist }}</td>
+              </tr>
+            </tbody>
+          </template>
+        </v-simple-table>
       </div>
     </div>
-    <md-progress-spinner v-if="!loaded" md-mode="indeterminate"></md-progress-spinner>
+    <v-progress-circular v-if="!loaded" indeterminate color="primary"></v-progress-circular>
   </div>
 </template>
 
@@ -92,12 +116,18 @@ export default Vue.extend({
   }),
   computed: {
     data() {
-      return this.$store.state.allRecent;
+      console.log(this.$store.state.allRecent);
+      return this.$store.state.allRecent.data;
     }
   },
-  mounted: async () => {
-    await this.$store.dispatch("updateAll");
-    this.loaded = true;
+  mounted() {
+    this.loadAll();
+  },
+  methods: {
+    async loadAll() {
+      await this.$store.dispatch("fetchRecentAll");
+      this.loaded = true;
+    }
   }
 });
 </script>

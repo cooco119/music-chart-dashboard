@@ -49,6 +49,7 @@ export default new Vuex.Store<RootState>({
     },
     updateRecentAll: (state, payload) => {
       state.allRecent = payload.dataset;
+      console.log('state', state);
     },
   },
   actions: {
