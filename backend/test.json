@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Blueming",
+      "artist": "아이유"
+    },
+    {
+      "rank": 2,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/48/811/10348811_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "늦은 밤 너의 집 앞 골목길에서",
+      "artist": "노을"
+    },
+    {
+      "rank": 3,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Love poem",
+      "artist": "아이유"
+    },
+    {
+      "rank": 4,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Into the Unknown (From \"Frozen 2\"/Soundtrack Version)",
+      "artist": "Idina Menzel"
+    },
+    {
+      "rank": 5,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/51/886/10351886_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "HIP",
+      "artist": "마마무(Mamamoo)"
+    },
+    {
+      "rank": 6,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/51/268/10351268_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "이 번호로 전화해줘",
+      "artist": "바이브"
+    },
+    {
+      "rank": 7,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Obsession",
+      "artist": "EXO"
+    },
+    {
+      "rank": 8,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "AKMU (악동뮤지션)"
+    },
+    {
+      "rank": 9,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/20/500/10320500_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
+      "artist": "장범준"
+    },
+    {
+      "rank": 10,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "인기 (Feat. 송가인, 챈슬러)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 11,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/499/10331499_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "조금 취했어 (Prod. 2soo)",
+      "artist": "임재현"
+    },
+    {
+      "rank": 12,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/37/665/10337665_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "새 사랑",
+      "artist": "송하예"
+    },
+    {
+      "rank": 13,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/26/710/10326710_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "사랑이란 멜로는 없어",
+      "artist": "전상근"
+    },
+    {
+      "rank": 14,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "시간의 바깥",
+      "artist": "아이유"
+    },
+    {
+      "rank": 15,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
+      "artist": "마크툽 (MAKTUB)"
+    },
+    {
+      "rank": 16,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Show Yourself (From \"Frozen 2\"/Soundtrack Version)",
+      "artist": "Idina Menzel"
+    },
+    {
+      "rank": 17,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/36/518/10336518_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "있어줘요",
+      "artist": "장덕철"
+    },
+    {
+      "rank": 18,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "불티 (Spark)",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 19,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/17/137/10317137_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "안녕",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 20,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/371/10346371_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "이별주",
+      "artist": "황인욱"
+    },
+    {
+      "rank": 21,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/67/986/10267986_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "시든 꽃에 물을 주듯",
+      "artist": "HYNN (박혜원)"
+    },
+    {
+      "rank": 22,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Trouble",
+      "artist": "EXO"
+    },
+    {
+      "rank": 23,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "unlucky",
+      "artist": "아이유"
+    },
+    {
+      "rank": 24,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/98/014/10298014_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "포장마차",
+      "artist": "황인욱"
+    },
+    {
+      "rank": 25,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/83/614/10283614_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "니 소식",
+      "artist": "송하예"
+    },
+    {
+      "rank": 26,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "춤 (Groove)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 27,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/50/708/10350708_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "차가워진 이 바람엔 우리가 써있어(Bad Love)",
+      "artist": "HYNN (박혜원)"
+    },
+    {
+      "rank": 28,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "지킬 (Jekyll)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 29,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/101/37/250/10137250_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "2002",
+      "artist": "Anne-Marie"
+    },
+    {
+      "rank": 30,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/52/534/10352534_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "숨겨진 세상 (Into the Unknown End Credit Version) (\"겨울왕국 2\")",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 31,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "나비효과 (Butterfly Effect)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 32,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Ya Ya Ya",
+      "artist": "EXO"
+    },
+    {
+      "rank": 33,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Baby You Are",
+      "artist": "EXO"
+    },
+    {
+      "rank": 34,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Non Stop",
+      "artist": "EXO"
+    },
+    {
+      "rank": 35,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/27/581/10327581_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "워커홀릭",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 36,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "오늘도 (Day After Day)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 37,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/24/004/10324004_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "다시 만날까 봐",
+      "artist": "V.O.S"
+    },
+    {
+      "rank": 38,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "샤넬 (Feat. 박봄)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 39,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/07/131/10207131_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "사랑에 연습이 있었다면 (Prod. 2soo)",
+      "artist": "임재현"
+    },
+    {
+      "rank": 40,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/90/621/10290621_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "사랑이 식었다고 말해도 돼",
+      "artist": "먼데이 키즈 (Monday Kiz)"
+    },
+    {
+      "rank": 41,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/14/289/10314289_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "기억해줘요 내 모든 날과 그때를",
+      "artist": "거미"
+    },
+    {
+      "rank": 42,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/43/701/10343701_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "LION",
+      "artist": "(여자)아이들"
+    },
+    {
+      "rank": 43,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/94/820/10294820_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "BAND",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 44,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "작은 것들을 위한 시 (Boy With Luv) feat. Halsey",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 45,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/98/832/10298832_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Señorita",
+      "artist": "Shawn Mendes"
+    },
+    {
+      "rank": 46,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/35/933/10335933_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "허전해",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 47,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/59/103/10359103_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "마음",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 48,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "그 사람",
+      "artist": "아이유"
+    },
+    {
+      "rank": 49,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 50,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "가을밤 떠난 너",
+      "artist": "케이시 (Kassy)"
+    },
+    {
+      "rank": 51,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/67/565/10267565_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "bad guy",
+      "artist": "Billie Eilish"
+    },
+    {
+      "rank": 52,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/97/571/10297571_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "술이 문제야",
+      "artist": "장혜진"
+    },
+    {
+      "rank": 53,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "자장가",
+      "artist": "아이유"
+    },
+    {
+      "rank": 54,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "헤어지자 (Prod. 정키)",
+      "artist": "휘인 (Whee In)"
+    },
+    {
+      "rank": 55,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Feel Special",
+      "artist": "TWICE (트와이스)"
+    },
+    {
+      "rank": 56,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "너를 만나",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 57,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/09/213/10309213_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "그대라는 시",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 58,
+      "diff": "up",
+      "diffVal": 5,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "꿈속에 너 (Feat. 전상근)",
+      "artist": "에이치코드 (H:CODE)"
+    },
+    {
+      "rank": 59,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/45/742/10345742_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "영화 속에 나오는 주인공처럼",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 60,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey"
+    },
+    {
+      "rank": 61,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "사계 (Four Seasons)",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 62,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/37/649/10337649_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "떨어지는 낙엽까지도",
+      "artist": "헤이즈 (Heize)"
+    },
+    {
+      "rank": 63,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/21/104/10321104_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "벗",
+      "artist": "닐로(Nilo)"
+    },
+    {
+      "rank": 64,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/177/10357177_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "날 보러 와요 (Come See Me)",
+      "artist": "AOA"
+    },
+    {
+      "rank": 65,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "우리 어떻게 할까요",
+      "artist": "첸 (CHEN)"
+    },
+    {
+      "rank": 66,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Paris In The Rain",
+      "artist": "Lauv"
+    },
+    {
+      "rank": 67,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/59/162/10359162_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "METEOR",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 68,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/175/10346175_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "이별은 늘 그렇게 (Duet. 정은지)",
+      "artist": "허각"
+    },
+    {
+      "rank": 69,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Speechless (Full)",
+      "artist": "Naomi Scott"
+    },
+    {
+      "rank": 70,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/33/851/10333851_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "천둥벌거숭이 (Feat. Jvcki Wai, 염따)",
+      "artist": "지코 (ZICO)"
+    },
+    {
+      "rank": 71,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/02/879/10302879_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "헤어져줘서 고마워",
+      "artist": "벤"
+    },
+    {
+      "rank": 72,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "嗜 (Obsession)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 73,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/35/543/10335543_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "이별행동",
+      "artist": "이우"
+    },
+    {
+      "rank": 74,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "나의 어깨에 기대어요",
+      "artist": "10cm"
+    },
+    {
+      "rank": 75,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/48/389/10348389_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "5월의 밤",
+      "artist": "Zion.T"
+    },
+    {
+      "rank": 76,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "내 생애 가장 행복한 시간 Part.2 (Feat. 양다일)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 77,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "그때가 좋았어",
+      "artist": "케이시 (Kassy)"
+    },
+    {
+      "rank": 78,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "노래방에서",
+      "artist": "장범준"
+    },
+    {
+      "rank": 79,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/94/763/10294763_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "솔직하게 말해서 나",
+      "artist": "김나영"
+    },
+    {
+      "rank": 80,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/65/656/10265656_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "안녕이라는 말",
+      "artist": "송이한"
+    },
+    {
+      "rank": 81,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "너에게 못했던 내 마지막 말은",
+      "artist": "다비치"
+    },
+    {
+      "rank": 82,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "봄날",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 83,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Some Things Never Change (From \"Frozen 2\"/Soundtrack Version)",
+      "artist": "Kristen Bell"
+    },
+    {
+      "rank": 84,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/55/092/10355092_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "맵고짜고단거 (Feat. 페노메코)",
+      "artist": "다이나믹 듀오"
+    },
+    {
+      "rank": 85,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/29/447/10329447_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "가끔 이러다",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 86,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "주저하는 연인들을 위해",
+      "artist": "잔나비"
+    },
+    {
+      "rank": 87,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/102/68/441/10268441_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "사월이 지나면 우리 헤어져요 (Beautiful goodbye)",
+      "artist": "첸 (CHEN)"
+    },
+    {
+      "rank": 88,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/022/92/117/2292117_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Santa Tell Me",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 89,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Believer",
+      "artist": "Imagine Dragons"
+    },
+    {
+      "rank": 90,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/47/725/10347725_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "FLOWER SHOWER",
+      "artist": "현아"
+    },
+    {
+      "rank": 91,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/16/828/10316828_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "내 목소리 들리니",
+      "artist": "벤"
+    },
+    {
+      "rank": 92,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "우리 왜 헤어져야 해",
+      "artist": "신예영"
+    },
+    {
+      "rank": 93,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/103/07/772/10307772_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "내 안부",
+      "artist": "이우"
+    },
+    {
+      "rank": 94,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/59/181/10359181_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "처음부터 만나지 않았더라면",
+      "artist": "반하나"
+    },
+    {
+      "rank": 95,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "IDOL",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 96,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/54/661/10354661_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "끝난 사이",
+      "artist": "보라미유"
+    },
+    {
+      "rank": 97,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/59/161/10359161_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "너의 온기가 되어줄게 (Feat. 예리 of Red Velvet)",
+      "artist": "베이빌론"
+    },
+    {
+      "rank": 98,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/18/623/10318623_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "Done For Me",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 99,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "비",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 100,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/57/857/10357857_500.jpg/melon/resize/120/quality/80/optimize",
+      "name": "New York",
+      "artist": "볼빨간사춘기"
+    }
+  ]
+}

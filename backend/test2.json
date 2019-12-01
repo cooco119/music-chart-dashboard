@@ -1,0 +1,1604 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "Blueming",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 2,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/302/841/81302841_1573114099166_1_140x140.JPG",
+      "name": "늦은 밤 너의 집 앞 골목길에서",
+      "artist": "노을"
+    },
+    {
+      "rank": 3,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/309/776/81309776_1573713705694_1_140x140.JPG",
+      "name": "HIP",
+      "artist": "마마무(Mamamoo)"
+    },
+    {
+      "rank": 4,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "Into the Unknown",
+      "artist": "Idina Menzel & AURORA"
+    },
+    {
+      "rank": 5,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "Love poem",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 6,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/305/010/81305010_1574148594739_1_140x140.JPG",
+      "name": "이 번호로 전화해줘",
+      "artist": "바이브"
+    },
+    {
+      "rank": 7,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/260/027/81260027_1566538606488_1_140x140.JPG",
+      "name": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
+      "artist": "장범준"
+    },
+    {
+      "rank": 8,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/271/853/81271853_1569396403906_1_140x140.JPG",
+      "name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "AKMU (악동뮤지션)"
+    },
+    {
+      "rank": 9,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "Show Yourself",
+      "artist": "Idina Menzel & Evan Rachel Wood"
+    },
+    {
+      "rank": 10,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "시간의 바깥",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 11,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/271/229/81271229_1569309031143_1_140x140.JPG",
+      "name": "조금 취했어 (Prod. by 2soo)",
+      "artist": "임재현"
+    },
+    {
+      "rank": 12,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/154/81291154_1571987515857_1_140x140.JPG",
+      "name": "인기 (Feat. 송가인 & 챈슬러)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 13,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/280/600/81280600_1570782050116_1_140x140.JPG",
+      "name": "새 사랑",
+      "artist": "송하예"
+    },
+    {
+      "rank": 14,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/266/376/81266376_1567761004698_1_140x140.JPG",
+      "name": "사랑이란 멜로는 없어",
+      "artist": "전상근"
+    },
+    {
+      "rank": 15,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "unlucky",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 16,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/222/277/81222277_1559886717282_1_140x140.JPG",
+      "name": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
+      "artist": "마크툽 (Maktub)"
+    },
+    {
+      "rank": 17,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/256/205/81256205_1565592764970_1_140x140.JPG",
+      "name": "안녕",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 18,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/278/362/81278362_1570523157591_1_140x140.JPG",
+      "name": "있어줘요",
+      "artist": "장덕철"
+    },
+    {
+      "rank": 19,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/956/81291956_1572245267606_1_140x140.JPG",
+      "name": "불티 (Spark)",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 20,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "Obsession",
+      "artist": "EXO"
+    },
+    {
+      "rank": 21,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/349/81310349_1573724166938_1_140x140.JPG",
+      "name": "숨겨진 세상 (Into the Unknown End Credit Ver.) (겨울왕국 2)",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 22,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/031/556/81031556_1524793395076_1_140x140.JPG",
+      "name": "2002",
+      "artist": "Anne Marie"
+    },
+    {
+      "rank": 23,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "METEOR",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 24,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/179/371/81179371_1553847956575_1_140x140.JPG",
+      "name": "시든 꽃에 물을 주듯",
+      "artist": "HYNN (박혜원)"
+    },
+    {
+      "rank": 25,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/230/413/81230413_1561007250403_1_140x140.JPG",
+      "name": "포장마차",
+      "artist": "황인욱"
+    },
+    {
+      "rank": 26,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/203/837/81203837_1557472233570_1_140x140.JPG",
+      "name": "니 소식",
+      "artist": "송하예"
+    },
+    {
+      "rank": 27,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "그 사람",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 28,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/290/911/81290911_1571969365669_1_140x140.JPG",
+      "name": "LION",
+      "artist": "(여자)아이들"
+    },
+    {
+      "rank": 29,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/267/083/81267083_1568099301763_1_140x140.JPG",
+      "name": "워커홀릭",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 30,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+      "name": "자장가",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 31,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/107/490/81107490_1537516352250_1_140x140.JPG",
+      "name": "사랑에 연습이 있었다면 (Prod. by 2soo)",
+      "artist": "임재현"
+    },
+    {
+      "rank": 32,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/317/619/81317619_1574754248289_1_140x140.JPG",
+      "name": "날 보러 와요 (Come See Me)",
+      "artist": "AOA"
+    },
+    {
+      "rank": 33,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/299/81297299_1572593123581_1_140x140.JPG",
+      "name": "이별주",
+      "artist": "황인욱"
+    },
+    {
+      "rank": 34,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/386/81321386_1575013191664_1_140x140.JPG",
+      "name": "마음",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 35,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/277/427/81277427_1570431722861_1_140x140.JPG",
+      "name": "허전해",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 36,
+      "diff": "up",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/263/632/81263632_1567157026903_1_140x140.JPG",
+      "name": "다시 만날까 봐",
+      "artist": "V.O.S"
+    },
+    {
+      "rank": 37,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/252/935/81252935_1564732364468_1_140x140.JPG",
+      "name": "기억해줘요 내 모든 날과 그때를",
+      "artist": "거미 (Gummy)"
+    },
+    {
+      "rank": 38,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/213/666/81213666_1558941393416_1_140x140.JPG",
+      "name": "사랑이 식었다고 말해도 돼",
+      "artist": "먼데이 키즈 (Monday Kiz)"
+    },
+    {
+      "rank": 39,
+      "diff": "down",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/044/453/81044453_1521524523818_1_140x140.JPG",
+      "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 40,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/231/560/81231560_1561093152984_1_140x140.JPG",
+      "name": "Senorita",
+      "artist": "Camila Cabello & Shawn Mendes"
+    },
+    {
+      "rank": 41,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/315/190/81315190_1574755866160_1_140x140.JPG",
+      "name": "맵고짜고단거 (Feat. 페노메코)",
+      "artist": "다이나믹 듀오"
+    },
+    {
+      "rank": 42,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/302/011/81302011_1573022173770_1_140x140.JPG",
+      "name": "5월의 밤",
+      "artist": "Zion.T"
+    },
+    {
+      "rank": 43,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/307/717/81307717_1573543831928_1_140x140.JPG",
+      "name": "차가워진 이 바람엔 우리가 써있어 (Bad Love)",
+      "artist": "HYNN (박혜원)"
+    },
+    {
+      "rank": 44,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/265/536/81265536_1567660204916_1_140x140.JPG",
+      "name": "가을밤 떠난 너",
+      "artist": "케이시 (Kassy)"
+    },
+    {
+      "rank": 45,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/178/924/81178924_1553759237360_1_140x140.JPG",
+      "name": "bad guy",
+      "artist": "Billie Eilish"
+    },
+    {
+      "rank": 46,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/154/81291154_1571987515857_1_140x140.JPG",
+      "name": "샤넬 (Feat. 박봄)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 47,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "Some Things Never Change",
+      "artist": "Kristen Bell & Idina Menzel & Josh Gad & Jonathan Groff & Cast of Frozen 2"
+    },
+    {
+      "rank": 48,
+      "diff": "down",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/227/110/81227110_1560836623934_1_140x140.JPG",
+      "name": "술이 문제야",
+      "artist": "장혜진 & 윤민수(바이브)"
+    },
+    {
+      "rank": 49,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/246/905/81246905_1563523038613_1_140x140.JPG",
+      "name": "그대라는 시",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 50,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/154/81291154_1571987515857_1_140x140.JPG",
+      "name": "내 생애 가장 행복한 시간 Part.2 (Feat. 양다일)",
+      "artist": "MC몽"
+    },
+    {
+      "rank": 51,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/185/967/81185967_1555053086357_1_140x140.JPG",
+      "name": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 52,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/222/538/81222538_1559895454798_1_140x140.JPG",
+      "name": "BAND",
+      "artist": "창모 & Hash Swan & ASH ISLAND & 김효은"
+    },
+    {
+      "rank": 53,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "All Is Found",
+      "artist": "Evan Rachel Wood"
+    },
+    {
+      "rank": 54,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/119/094/81119094_1540799516133_1_140x140.JPG",
+      "name": "너를 만나",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 55,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/260/355/81260355_1566803683590_1_140x140.JPG",
+      "name": "벗",
+      "artist": "닐로 (Nilo)"
+    },
+    {
+      "rank": 56,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/271/000/81271000_1569226004541_1_140x140.JPG",
+      "name": "Feel Special",
+      "artist": "TWICE (트와이스)"
+    },
+    {
+      "rank": 57,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/110/605/81110605_1538905766698_1_140x140.JPG",
+      "name": "Paris In The Rain",
+      "artist": "Lauv"
+    },
+    {
+      "rank": 58,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/754/81321754_1575013317167_1_140x140.JPG",
+      "name": "너의 온기가 되어줄게 (Feat. 예리 Of Red Velvet)",
+      "artist": "베이빌론"
+    },
+    {
+      "rank": 59,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/264/992/81264992_1567579616945_1_140x140.JPG",
+      "name": "헤어지자 (Prod. by 정키 (Jung Key))",
+      "artist": "휘인 (Whee In)"
+    },
+    {
+      "rank": 60,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "Trouble",
+      "artist": "EXO"
+    },
+    {
+      "rank": 61,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/898/81175898_1553244982697_1_140x140.JPG",
+      "name": "사계 (Four Seasons)",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 62,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/210/504/81210504_1558491817346_1_140x140.JPG",
+      "name": "Speechless (Full)",
+      "artist": "Naomi Scott"
+    },
+    {
+      "rank": 63,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/174/795/81174795_1568725602850_1_140x140.JPG",
+      "name": "On My Way",
+      "artist": "Alan Walker & Sabrina Carpenter & Farruko"
+    },
+    {
+      "rank": 64,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/279/913/81279913_1570784897815_1_140x140.JPG",
+      "name": "떨어지는 낙엽까지도",
+      "artist": "헤이즈 (Heize)"
+    },
+    {
+      "rank": 65,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/997/283/80997283_1544753871300_1_140x140.JPG",
+      "name": "All Falls Down (Feat. Noah Cyrus & Digital Farm Animals)",
+      "artist": "Alan Walker"
+    },
+    {
+      "rank": 66,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/488/81175488_1553152297646_1_140x140.JPG",
+      "name": "노래방에서",
+      "artist": "장범준"
+    },
+    {
+      "rank": 67,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/142/895/81142895_1546233980271_1_140x140.JPG",
+      "name": "그때가 좋았어",
+      "artist": "케이시 (Kassy)"
+    },
+    {
+      "rank": 68,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "춤 (Groove)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 69,
+      "diff": "up",
+      "diffVal": 10,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/295/760/81295760_1572508028620_1_140x140.JPG",
+      "name": "영화 속에 나오는 주인공처럼",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 70,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "지킬 (Jekyll)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 71,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "나비효과 (Butterfly Effect)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 72,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/246/887/81246887_1563520506302_1_140x140.JPG",
+      "name": "나의 어깨에 기대어요",
+      "artist": "10cm"
+    },
+    {
+      "rank": 73,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "Lost in the Woods",
+      "artist": "Jonathan Groff"
+    },
+    {
+      "rank": 74,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/804/937/80804937_1459157535670_1_140x140.JPG",
+      "name": "꿈속에 너 (Feat. 전상근)",
+      "artist": "에이치코드 (H:CODE)"
+    },
+    {
+      "rank": 75,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/234/664/81234664_1562134390258_1_140x140.JPG",
+      "name": "헤어져줘서 고마워",
+      "artist": "벤"
+    },
+    {
+      "rank": 76,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "오늘도 (Day After Day)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 77,
+      "diff": "down",
+      "diffVal": 5,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/222/521/81222521_1559896732144_1_140x140.JPG",
+      "name": "솔직하게 말해서 나",
+      "artist": "김나영"
+    },
+    {
+      "rank": 78,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "Non Stop",
+      "artist": "EXO"
+    },
+    {
+      "rank": 79,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/172/042/81172042_1552452730746_1_140x140.JPG",
+      "name": "주저하는 연인들을 위해",
+      "artist": "잔나비"
+    },
+    {
+      "rank": 80,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "Ya Ya Ya",
+      "artist": "EXO"
+    },
+    {
+      "rank": 81,
+      "diff": "up",
+      "diffVal": 5,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "Baby You Are",
+      "artist": "EXO"
+    },
+    {
+      "rank": 82,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "빌었어",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 83,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/207/930/81207930_1558004470017_1_140x140.JPG",
+      "name": "너에게 못했던 내 마지막 말은",
+      "artist": "다비치"
+    },
+    {
+      "rank": 84,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/255/302/81255302_1565335680075_1_140x140.JPG",
+      "name": "내 목소리 들리니",
+      "artist": "벤"
+    },
+    {
+      "rank": 85,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/078/885/81078885_1530075209642_1_140x140.JPG",
+      "name": "Way Back Home",
+      "artist": "숀 (SHAUN)"
+    },
+    {
+      "rank": 86,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/269/187/81269187_1568791589135_1_140x140.JPG",
+      "name": "가끔 이러다",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 87,
+      "diff": "up",
+      "diffVal": 14,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/176/983/81176983_1553500606137_1_140x140.JPG",
+      "name": "안녕이라는 말",
+      "artist": "송이한"
+    },
+    {
+      "rank": 88,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/457/81321457_1575015014102_1_140x140.JPG",
+      "name": "처음부터 만나지 않았더라면",
+      "artist": "반하나"
+    },
+    {
+      "rank": 89,
+      "diff": "down",
+      "diffVal": 16,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/933/154/80933154_1490341401069_1_140x140.JPG",
+      "name": "밤편지",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 90,
+      "diff": "down",
+      "diffVal": 16,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/270/947/81270947_1569222456738_1_140x140.JPG",
+      "name": "나만 아픈 일",
+      "artist": "이해리 (다비치)"
+    },
+    {
+      "rank": 91,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/918/774/80918774_1485914481997_1_140x140.JPG",
+      "name": "Believer",
+      "artist": "Imagine Dragons"
+    },
+    {
+      "rank": 92,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/832/600/80832600_1466415901146_1_140x140.JPG",
+      "name": "비",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 93,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/117/083/81117083_1540360229814_1_140x140.JPG",
+      "name": "Comethru",
+      "artist": "Jeremy Zucker"
+    },
+    {
+      "rank": 94,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/258/180/81258180_1565946960688_1_140x140.JPG",
+      "name": "Done For Me",
+      "artist": "펀치 (Punch)"
+    },
+    {
+      "rank": 95,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/273/615/81273615_1569826924670_1_140x140.JPG",
+      "name": "천둥벌거숭이 (Feat. Jvcki Wai & 염따)",
+      "artist": "지코 (ZICO)"
+    },
+    {
+      "rank": 96,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/144/355/81144355_1546415793972_1_140x140.JPG",
+      "name": "옥탑방 (Rooftop)",
+      "artist": "엔플라잉 (N.Flying)"
+    },
+    {
+      "rank": 97,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/841/640/80841640_1468477346875_1_140x140.JPG",
+      "name": "The Ocean (Feat. Shy Martin) (Radio Edit)",
+      "artist": "Mike Perry"
+    },
+    {
+      "rank": 98,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/300/300/81300300_1572938113584_1_140x140.JPG",
+      "name": "FLOWER SHOWER",
+      "artist": "현아"
+    },
+    {
+      "rank": 99,
+      "diff": "up",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/998/749/80998749_1541411744363_1_140x140.JPG",
+      "name": "Snowman",
+      "artist": "Sia"
+    },
+    {
+      "rank": 100,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/481/362/80481362_1416820542267_1_140x140.JPG",
+      "name": "Santa Tell Me",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 101,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "The Next Right Thing",
+      "artist": "Kristen Bell"
+    },
+    {
+      "rank": 102,
+      "diff": "up",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/244/920/81244920_1563265609114_1_140x140.JPG",
+      "name": "내 안부",
+      "artist": "이우"
+    },
+    {
+      "rank": 103,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/276/429/81276429_1570178941871_1_140x140.JPG",
+      "name": "이별행동",
+      "artist": "이우"
+    },
+    {
+      "rank": 104,
+      "diff": "up",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/143/295/81143295_1546410332404_1_140x140.JPG",
+      "name": "벌써 12시",
+      "artist": "청하"
+    },
+    {
+      "rank": 105,
+      "diff": "up",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/111/535/81111535_1539157728291_1_140x140.JPG",
+      "name": "삐삐",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 106,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/250/358/81250358_1564385477571_1_140x140.JPG",
+      "name": "ICY",
+      "artist": "ITZY (있지)"
+    },
+    {
+      "rank": 107,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/031/556/81031556_1524793395076_1_140x140.JPG",
+      "name": "FRIENDS",
+      "artist": "Marshmello & Anne-Marie"
+    },
+    {
+      "rank": 108,
+      "diff": "up",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/970/170/80970170_1501151346087_1_140x140.JPG",
+      "name": "취하고 싶다 (Prod. by 전태익)",
+      "artist": "황인욱"
+    },
+    {
+      "rank": 109,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/274/249/81274249_1569909351175_1_140x140.JPG",
+      "name": "우리 어떻게 할까요",
+      "artist": "첸 (CHEN)"
+    },
+    {
+      "rank": 110,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/911/494/80911494_1484644569534_1_140x140.JPG",
+      "name": "Shape Of You",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "rank": 111,
+      "diff": "up",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/384/589/80384589_1572569104266_1_140x140.JPG",
+      "name": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey"
+    },
+    {
+      "rank": 112,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/231/587/81231587_1561362446938_1_140x140.JPG",
+      "name": "Snapping",
+      "artist": "청하"
+    },
+    {
+      "rank": 113,
+      "diff": "up",
+      "diffVal": 18,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/739/993/80739993_1502689949807_1_140x140.JPG",
+      "name": "YOUTH",
+      "artist": "Troye Sivan"
+    },
+    {
+      "rank": 114,
+      "diff": "up",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/782/81321782_1575015732012_1_140x140.JPG",
+      "name": "반만",
+      "artist": "진민호"
+    },
+    {
+      "rank": 115,
+      "diff": "up",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/308/016/81308016_1573629730883_1_140x140.JPG",
+      "name": "운명이 내게 말해요",
+      "artist": "헤이즈 (Heize)"
+    },
+    {
+      "rank": 116,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/270/251/81270251_1568955300246_1_140x140.JPG",
+      "name": "Memories",
+      "artist": "Maroon 5"
+    },
+    {
+      "rank": 117,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/192/234/81192234_1555916304829_1_140x140.JPG",
+      "name": "FANCY",
+      "artist": "TWICE (트와이스)"
+    },
+    {
+      "rank": 118,
+      "diff": "up",
+      "diffVal": 17,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/121/614/81121614_1541403038751_1_140x140.JPG",
+      "name": "너는 어땠을까",
+      "artist": "노을"
+    },
+    {
+      "rank": 119,
+      "diff": "up",
+      "diffVal": 27,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/313/509/81313509_1574233328164_1_140x140.JPG",
+      "name": "우리 왜 헤어져야 해",
+      "artist": "신예영"
+    },
+    {
+      "rank": 120,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/105/793/81105793_1537253872094_1_140x140.JPG",
+      "name": "가을 타나 봐",
+      "artist": "바이브"
+    },
+    {
+      "rank": 121,
+      "diff": "down",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/158/739/81158739_1549951243247_1_140x140.JPG",
+      "name": "달라달라",
+      "artist": "ITZY (있지)"
+    },
+    {
+      "rank": 122,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "When I Am Older",
+      "artist": "Josh Gad"
+    },
+    {
+      "rank": 123,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/144/324/81144324_1546415439442_1_140x140.JPG",
+      "name": "사계 (하루살이)",
+      "artist": "엠씨더맥스 (M.C THE MAX)"
+    },
+    {
+      "rank": 124,
+      "diff": "down",
+      "diffVal": 10,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/121/492/81121492_1567593740379_1_140x140.JPG",
+      "name": "thank u, next",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 125,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "REMEDY",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 126,
+      "diff": "up",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/240/012/81240012_1562653545956_1_140x140.JPG",
+      "name": "인사",
+      "artist": "멜로망스 (MeloMance)"
+    },
+    {
+      "rank": 127,
+      "diff": "up",
+      "diffVal": 25,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/941/476/80941476_1525401815249_1_140x140.JPG",
+      "name": "Attention",
+      "artist": "Charlie Puth"
+    },
+    {
+      "rank": 128,
+      "diff": "up",
+      "diffVal": 19,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/223/248/81223248_1560153544670_1_140x140.JPG",
+      "name": "아퍼 (Feat. Kid Milli & Lil tachi & 김승민 & NO:EL & C JAMM)",
+      "artist": "기리보이"
+    },
+    {
+      "rank": 129,
+      "diff": "down",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/067/442/81067442_1527144018226_1_140x140.JPG",
+      "name": "여행",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 130,
+      "diff": "up",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/777/145/80777145_1452588458633_1_140x140.JPG",
+      "name": "Faded",
+      "artist": "Alan Walker"
+    },
+    {
+      "rank": 131,
+      "diff": "up",
+      "diffVal": 71,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/488/81175488_1553152297646_1_140x140.JPG",
+      "name": "당신과는 천천히",
+      "artist": "장범준"
+    },
+    {
+      "rank": 132,
+      "diff": "down",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "더 위로",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 133,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/296/300/81296300_1572505641018_1_140x140.JPG",
+      "name": "이별은 늘 그렇게 (Duet. 정은지)",
+      "artist": "허각"
+    },
+    {
+      "rank": 134,
+      "diff": "up",
+      "diffVal": 15,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/347/81310347_1573724166145_1_140x140.JPG",
+      "name": "Into the Unknown (Panic! At The Disco Ver.)",
+      "artist": "Panic! At The Disco"
+    },
+    {
+      "rank": 135,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/911/488/80911488_1483696444510_1_140x140.JPG",
+      "name": "첫눈처럼 너에게 가겠다",
+      "artist": "에일리 (Ailee)"
+    },
+    {
+      "rank": 136,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/104/654/81104654_1536826091284_1_140x140.JPG",
+      "name": "이별하러 가는 길",
+      "artist": "임한별"
+    },
+    {
+      "rank": 137,
+      "diff": "up",
+      "diffVal": 24,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/267/083/81267083_1568099301763_1_140x140.JPG",
+      "name": "25",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 138,
+      "diff": "down",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/271/853/81271853_1569396403906_1_140x140.JPG",
+      "name": "달",
+      "artist": "AKMU (악동뮤지션)"
+    },
+    {
+      "rank": 139,
+      "diff": "down",
+      "diffVal": 12,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/997/959/80997959_1509347822288_1_140x140.JPG",
+      "name": "지나오다",
+      "artist": "닐로 (Nilo)"
+    },
+    {
+      "rank": 140,
+      "diff": "down",
+      "diffVal": 10,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/144/324/81144324_1546415439442_1_140x140.JPG",
+      "name": "넘쳐흘러",
+      "artist": "엠씨더맥스 (M.C THE MAX)"
+    },
+    {
+      "rank": 141,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/261/884/81261884_1566887413513_1_140x140.JPG",
+      "name": "날라리 (LALALAY)",
+      "artist": "선미"
+    },
+    {
+      "rank": 142,
+      "diff": "down",
+      "diffVal": 24,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/921/195/80921195_1486716752321_1_140x140.JPG",
+      "name": "봄날",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 143,
+      "diff": "up",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/116/040/81116040_1540262181045_1_140x140.JPG",
+      "name": "내 생에 아름다운",
+      "artist": "케이윌 (K.Will)"
+    },
+    {
+      "rank": 144,
+      "diff": "up",
+      "diffVal": 25,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/245/053/81245053_1563433408780_1_140x140.JPG",
+      "name": "조금 더 외로워지겠지",
+      "artist": "김나영"
+    },
+    {
+      "rank": 145,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/253/062/81253062_1564732115960_1_140x140.JPG",
+      "name": "그 끝에 그대",
+      "artist": "청하"
+    },
+    {
+      "rank": 146,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/290/911/81290911_1571969365669_1_140x140.JPG",
+      "name": "우린 결국 다시 만날 운명이었지 (Destiny)",
+      "artist": "마마무(Mamamoo)"
+    },
+    {
+      "rank": 147,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/180/031/81180031_1554189031639_1_140x140.JPG",
+      "name": "나만, 봄",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 148,
+      "diff": "up",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/200/196/81200196_1556870734892_1_140x140.JPG",
+      "name": "Goodbye",
+      "artist": "박효신"
+    },
+    {
+      "rank": 149,
+      "diff": "up",
+      "diffVal": 47,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/159/449/81159449_1550044397934_1_140x140.JPG",
+      "name": "멍청이 (twit)",
+      "artist": "화사 (Hwa Sa)"
+    },
+    {
+      "rank": 150,
+      "diff": "down",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/273/615/81273615_1569826924670_1_140x140.JPG",
+      "name": "사람",
+      "artist": "지코 (ZICO)"
+    },
+    {
+      "rank": 151,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/113/037/81113037_1539589766989_1_140x140.JPG",
+      "name": "고백",
+      "artist": "양다일"
+    },
+    {
+      "rank": 152,
+      "diff": "up",
+      "diffVal": 20,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/250/012/81250012_1564124598776_1_140x140.JPG",
+      "name": "내 맘을 볼 수 있나요",
+      "artist": "헤이즈 (Heize)"
+    },
+    {
+      "rank": 153,
+      "diff": "down",
+      "diffVal": 41,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/964/912/80964912_1499671793637_1_140x140.JPG",
+      "name": "선물",
+      "artist": "멜로망스 (MeloMance)"
+    },
+    {
+      "rank": 154,
+      "diff": "down",
+      "diffVal": 20,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/179/256/81179256_1554102523136_1_140x140.JPG",
+      "name": "사월이 지나면 우리 헤어져요 (Beautiful goodbye)",
+      "artist": "첸 (CHEN)"
+    },
+    {
+      "rank": 155,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/150/692/81150692_1547775927431_1_140x140.JPG",
+      "name": "7 rings",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 156,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/448/627/80448627_1405408277664_1_140x140.JPG",
+      "name": "Chandelier",
+      "artist": "Sia"
+    },
+    {
+      "rank": 157,
+      "diff": "down",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/007/399/81007399_1511854441859_1_140x140.JPG",
+      "name": "그날처럼",
+      "artist": "장덕철"
+    },
+    {
+      "rank": 158,
+      "diff": "up",
+      "diffVal": 16,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/349/81310349_1573724166938_1_140x140.JPG",
+      "name": "숨겨진 세상 (겨울왕국 2)",
+      "artist": "박혜나 & AURORA"
+    },
+    {
+      "rank": 159,
+      "diff": "up",
+      "diffVal": 14,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/359/81321359_1575013728272_1_140x140.JPG",
+      "name": "아퍼 (Band Ver.) (Feat. 영비 & YUNHWAY & Lil tachi & 한요한 & JUSTHIS & 스윙스)",
+      "artist": "기리보이"
+    },
+    {
+      "rank": 160,
+      "diff": "down",
+      "diffVal": 24,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/236/872/81236872_1562055340231_1_140x140.JPG",
+      "name": "비가 내리는 날에는",
+      "artist": "윤하 (YOUNHA)"
+    },
+    {
+      "rank": 161,
+      "diff": "down",
+      "diffVal": 64,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/317/204/81317204_1574671048251_1_140x140.JPG",
+      "name": "TOUCHIN'",
+      "artist": "강다니엘"
+    },
+    {
+      "rank": 162,
+      "diff": "up",
+      "diffVal": 26,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/315/190/81315190_1574755866160_1_140x140.JPG",
+      "name": "그걸로 됐어",
+      "artist": "다이나믹 듀오"
+    },
+    {
+      "rank": 163,
+      "diff": "up",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/992/377/80992377_1507877366286_1_140x140.JPG",
+      "name": "가을 안부",
+      "artist": "먼데이 키즈 (Monday Kiz)"
+    },
+    {
+      "rank": 164,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/913/561/80913561_1569458710773_1_140x140.JPG",
+      "name": "Something Just Like This",
+      "artist": "The Chainsmokers & Coldplay"
+    },
+    {
+      "rank": 165,
+      "diff": "down",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/218/361/80218361_1378798829373_1_140x140.JPG",
+      "name": "미리 메리 크리스마스 (Feat. 천둥 of MBLAQ)",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 166,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/233/996/81233996_1561530842044_1_140x140.JPG",
+      "name": "Uh-Oh",
+      "artist": "(여자)아이들"
+    },
+    {
+      "rank": 167,
+      "diff": "down",
+      "diffVal": 58,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/838/81310838_1573803599608_1_140x140.JPG",
+      "name": "합정역 5번 출구",
+      "artist": "유산슬"
+    },
+    {
+      "rank": 168,
+      "diff": "up",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/243/201/81243201_1562914863703_1_140x140.JPG",
+      "name": "Another Day",
+      "artist": "먼데이 키즈 (Monday Kiz) & 펀치 (Punch)"
+    },
+    {
+      "rank": 169,
+      "diff": "up",
+      "diffVal": 12,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/106/286/81106286_1537333845007_1_140x140.JPG",
+      "name": "하루도 그대를 사랑하지 않은 적이 없었다",
+      "artist": "임창정"
+    },
+    {
+      "rank": 170,
+      "diff": "down",
+      "diffVal": 22,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/015/570/81015570_1514516135775_1_140x140.JPG",
+      "name": "미안해",
+      "artist": "양다일"
+    },
+    {
+      "rank": 171,
+      "diff": "down",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/178/581/81178581_1564044596092_1_140x140.JPG",
+      "name": "가라사대",
+      "artist": "BewhY (비와이)"
+    },
+    {
+      "rank": 172,
+      "diff": "down",
+      "diffVal": 7,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/258/201/81258201_1565943860172_1_140x140.JPG",
+      "name": "Say Goodbye",
+      "artist": "송하예"
+    },
+    {
+      "rank": 173,
+      "diff": "down",
+      "diffVal": 9,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/262/498/81262498_1566969311318_1_140x140.JPG",
+      "name": "나빠(NAPPA)",
+      "artist": "Crush"
+    },
+    {
+      "rank": 174,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/925/897/80925897_1487900941401_1_140x140.JPG",
+      "name": "Stay",
+      "artist": "Zedd & Alessia Cara"
+    },
+    {
+      "rank": 175,
+      "diff": "down",
+      "diffVal": 17,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/261/317/81261317_1566548207669_1_140x140.JPG",
+      "name": "담아 (Feat. 염따 & pH-1) (Prod. by BOYCOLD)",
+      "artist": "스윙스 & 키드밀리 & 매드클라운"
+    },
+    {
+      "rank": 176,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/956/81291956_1572245267606_1_140x140.JPG",
+      "name": "Here I Am",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 177,
+      "diff": "down",
+      "diffVal": 14,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/805/81318805_1574836428327_1_140x140.JPG",
+      "name": "嗜 (Obsession)",
+      "artist": "EXO"
+    },
+    {
+      "rank": 178,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/386/305/80386305_1386817601248_1_140x140.JPG",
+      "name": "Let It Go",
+      "artist": "Idina Menzel"
+    },
+    {
+      "rank": 179,
+      "diff": "down",
+      "diffVal": 11,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/956/81291956_1572245267606_1_140x140.JPG",
+      "name": "Gravity",
+      "artist": "태연 (TAEYEON)"
+    },
+    {
+      "rank": 180,
+      "diff": "down",
+      "diffVal": 30,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/097/317/81097317_1535093690215_1_140x140.JPG",
+      "name": "IDOL",
+      "artist": "방탄소년단"
+    },
+    {
+      "rank": 181,
+      "diff": "up",
+      "diffVal": 6,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/275/435/81275435_1570003161378_1_140x140.JPG",
+      "name": "이상한 사람",
+      "artist": "존 박"
+    },
+    {
+      "rank": 182,
+      "diff": "down",
+      "diffVal": 20,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/673/272/80673272_1479086044907_1_140x140.JPG",
+      "name": "One Call Away",
+      "artist": "Charlie Puth"
+    },
+    {
+      "rank": 183,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/234/677/81234677_1561962331985_1_140x140.JPG",
+      "name": "괜찮아도 괜찮아 (That's okay)",
+      "artist": "디오 (D.O.)"
+    },
+    {
+      "rank": 184,
+      "diff": "down",
+      "diffVal": 24,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/060/985/81060985_1525765022413_1_140x140.JPG",
+      "name": "열애중",
+      "artist": "벤"
+    },
+    {
+      "rank": 185,
+      "diff": "down",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/975/396/80975396_1515736227928_1_140x140.JPG",
+      "name": "Havana (Feat. Young Thug)",
+      "artist": "Camila Cabello"
+    },
+    {
+      "rank": 186,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/132/075/81132075_1544161235948_1_140x140.JPG",
+      "name": "180도",
+      "artist": "벤"
+    },
+    {
+      "rank": 187,
+      "diff": "down",
+      "diffVal": 4,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/991/315/80991315_1506584021425_1_140x140.JPG",
+      "name": "나의 사춘기에게",
+      "artist": "볼빨간사춘기"
+    },
+    {
+      "rank": 188,
+      "diff": "up",
+      "diffVal": 10,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/648/81321648_1575013423101_1_140x140.JPG",
+      "name": "널 기다리고 있을게",
+      "artist": "SURAN (수란)"
+    },
+    {
+      "rank": 189,
+      "diff": "up",
+      "diffVal": 5,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "위업",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 190,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/150/496/81150496_1547712453002_1_140x140.JPG",
+      "name": "초록빛",
+      "artist": "폴킴"
+    },
+    {
+      "rank": 191,
+      "diff": "up",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/239/112/81239112_1562315057318_1_140x140.JPG",
+      "name": "We don't talk together (Feat. 기리보이) (Prod. by SUGA)",
+      "artist": "헤이즈 (Heize)"
+    },
+    {
+      "rank": 192,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/310/838/81310838_1573803599608_1_140x140.JPG",
+      "name": "사랑의 재개발",
+      "artist": "유산슬"
+    },
+    {
+      "rank": 193,
+      "diff": "down",
+      "diffVal": 15,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/847/755/80847755_1569285304550_1_140x140.JPG",
+      "name": "Closer (Feat. Halsey)",
+      "artist": "The Chainsmokers"
+    },
+    {
+      "rank": 194,
+      "diff": "up",
+      "diffVal": 1,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/321/723/81321723_1575013966692_1_140x140.JPG",
+      "name": "세레나데",
+      "artist": "창모 (CHANGMO)"
+    },
+    {
+      "rank": 195,
+      "diff": "static",
+      "diffVal": 0,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/941/594/80941594_1492760375708_1_140x140.JPG",
+      "name": "팔레트 (Feat. G-DRAGON)",
+      "artist": "아이유 (IU)"
+    },
+    {
+      "rank": 196,
+      "diff": "down",
+      "diffVal": 16,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/110/497/81110497_1538725514232_1_140x140.JPG",
+      "name": "Good Day (Feat. 팔로알토) (Prod. by 코드 쿤스트)",
+      "artist": "pH-1 & Kid Milli & 루피 (Loopy)"
+    },
+    {
+      "rank": 197,
+      "diff": "down",
+      "diffVal": 8,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/212/286/81212286_1559116559310_1_140x140.JPG",
+      "name": "대충 입고 나와",
+      "artist": "우디 (Woody)"
+    },
+    {
+      "rank": 198,
+      "diff": "down",
+      "diffVal": 13,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/102/928/81102928_1536648380655_1_140x140.JPG",
+      "name": "잘 지내요",
+      "artist": "정승환"
+    },
+    {
+      "rank": 199,
+      "diff": "up",
+      "diffVal": 2,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/259/229/81259229_1566290285130_1_140x140.JPG",
+      "name": "음파음파 (Umpah Umpah)",
+      "artist": "Red Velvet (레드벨벳)"
+    },
+    {
+      "rank": 200,
+      "diff": "down",
+      "diffVal": 3,
+      "albumImg": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/318/781/81318781_1574838401827_1_140x140.JPG",
+      "name": "New York",
+      "artist": "볼빨간사춘기 & WH3N (웬)"
+    }
+  ]
+}

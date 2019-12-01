@@ -7,7 +7,7 @@ const naver = require('./util/naver');
 
 const MAX_CACHE_LENGTH = 100000;
 const SWAP_FILE = 'swap.json';
-const cache = [];
+let cache = [];
 
 const getRecentData = async () => {
     const melonData = await melon.getData();
