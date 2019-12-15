@@ -9,6 +9,13 @@ const MAX_CACHE_LENGTH = 100000;
 const SWAP_FILE = 'swap.json';
 let cache = [];
 
+const CACHE_TYPE = {
+    MELON: 'MELON',
+    BUGS: 'BUGS',
+    GENIE: 'GENIE',
+    NAVER: 'NAVER',
+};
+
 const getRecentData = async () => {
     const melonData = await melon.getData();
     const bugsData = await bugs.getData();
@@ -51,9 +58,28 @@ const getCache = () => {
     return cache;
 }
 
+const getCacheValue = (key) => {
+    switch (key) {
+        case CACHE_TYPE.MELON:
+            return cache.map(e => ({ time: e.time, data: e.data.melonData.data }));
+        case CACHE_TYPE.BUGS:
+            return cache.map(e => ({ time: e.time, data: e.data.bugsData.data }));
+        case CACHE_TYPE.NAVER:
+            return cache.map(e => ({ time: e.time, data: e.data.naverData.data }));
+        case CACHE_TYPE.GENIE:
+            return cache.map(e => ({ time: e.time, data: e.data.genieData.data }));
+        case 'ALL':
+            return cache;
+        default:
+            throw new Error('No key for api cache value');
+    }
+};
+
 module.exports = {
     getRecentData,
     updateCache,
     getCache,
+    getCacheValue,
     swapIn,
+    CACHE_TYPE,
 }

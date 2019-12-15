@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { CONFIG } from '../config';
 
-const recentStore = {
+const diffStore = {
   state: {
     melon: [],
     bugs: [],
@@ -44,27 +44,27 @@ const recentStore = {
     },
   },
   actions: {
-    fetchMelon: async ({ commit }) => {
-      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/melon/recent`);
+    fetchMelon: async ({ commit }, { start }) => {
+      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/melon/diff?start=${start}`);
       commit('updateMelon', { dataset: res.data });
     },
-    fetchBugs: async ({ commit }) => {
-      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/bugs/recent`);
+    fetchBugs: async ({ commit }, { start }) => {
+      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/bugs/diff?start=${start}`);
       commit('updateBugs', { dataset: res.data });
     },
-    fetchNaver: async ({ commit }) => {
-      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/naver/recent`);
+    fetchNaver: async ({ commit }, { start }) => {
+      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/naver/diff?start=${start}`);
       commit('updateNaver', { dataset: res.data });
     },
-    fetchGenie: async ({ commit }) => {
-      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/genie/recent`);
+    fetchGenie: async ({ commit }, { start }) => {
+      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/genie/diff?start=${start}`);
       commit('updateGenie', { dataset: res.data });
     },
-    fetchAll: async ({ commit }) => {
-      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/all/recent`);
+    fetchAll: async ({ commit }, { start }) => {
+      const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/all/diff?start=${start}`);
       commit('updateAll', { dataset: res.data });
     },
   }
 };
 
-export default recentStore;
+export default diffStore;

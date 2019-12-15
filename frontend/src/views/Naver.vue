@@ -1,17 +1,17 @@
 <template>
   <div class="home">
-    <Dashboard/>
+    <DiffTable :platformProp="'naver'"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Dashboard from "@/components/Dashboard.vue";
+import DiffTable from "@/components/DiffTable.vue";
 
 export default {
-  name: "home",
+  name: "Naver",
   components: {
-    Dashboard
+    DiffTable
   }
 };
 </script>
