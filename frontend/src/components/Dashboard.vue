@@ -21,7 +21,10 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr v-for="elem in loadedData.melonData.data" :key="`melon_${elem.name}_${elem.artist}`">
+                      <tr
+                        v-for="elem in loadedData.melonData.data"
+                        :key="`melon_${elem.name}_${elem.artist}`"
+                      >
                         <td md-numeric>{{ elem.rank }}</td>
                         <td>
                           <img :src="elem.albumImg" />
@@ -52,7 +55,10 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr v-for="elem in loadedData.bugsData.data" :key="`bugs_${elem.name}_${elem.artist}`">
+                      <tr
+                        v-for="elem in loadedData.bugsData.data"
+                        :key="`bugs_${elem.name}_${elem.artist}`"
+                      >
                         <td md-numeric>{{ elem.rank }}</td>
                         <td>
                           <img :src="elem.albumImg" />
@@ -83,7 +89,10 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr v-for="elem in loadedData.naverData.data" :key="`naver_${elem.name}_${elem.artist}`">
+                      <tr
+                        v-for="elem in loadedData.naverData.data"
+                        :key="`naver_${elem.name}_${elem.artist}`"
+                      >
                         <td md-numeric>{{ elem.rank }}</td>
                         <td>
                           <img :src="elem.albumImg" />
@@ -114,7 +123,10 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr v-for="elem in loadedData.genieData.data" :key="`genie_${elem.name}_${elem.artist}`">
+                      <tr
+                        v-for="elem in loadedData.genieData.data"
+                        :key="`genie_${elem.name}_${elem.artist}`"
+                      >
                         <td md-numeric>{{ elem.rank }}</td>
                         <td>
                           <img :src="elem.albumImg" />
@@ -146,36 +158,36 @@ export default Vue.extend({
   data: () => ({
     loaded: false,
     windowHeight: 0,
-    dashboardHeight: 0,
+    dashboardHeight: 0
   }),
   computed: {
     loadedData() {
-      return this.$store.state.allRecent.data;
+      return this.$store.getters["recent/all"].data;
     },
     fetchDate() {
-      return (new Date(this.$store.state.allRecent.time)).toLocaleString();
-    },
+      return new Date(this.$store.getters["recent/all"].time).toLocaleString();
+    }
   },
   mounted() {
     this.$nextTick(() => {
-      window.addEventListener('resize', () => {
+      window.addEventListener("resize", () => {
         this.windowHeight = window.innerHeight;
-        this.dashboardHeight = document.getElementById('dashboard').clientHeight;
-        console.log(this.windowHeight);
+        this.dashboardHeight = document.getElementById(
+          "dashboard"
+        ).clientHeight;
       });
-    })
+    });
     this.loadAll();
   },
   methods: {
     async loadAll() {
-      await this.$store.dispatch("fetchRecentAll");
+      await this.$store.dispatch("recent/fetchAll");
       this.loaded = true;
     }
   }
 });
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
   margin: 40px 0 0;

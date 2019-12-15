@@ -16,7 +16,6 @@ const getCacheValue = (key) => {
         case 'GENIE':
             return cache.map(e => ({ time: e.time, data: e.data.melonData }));
         case 'ALL':
-            console.log('cache', cache);
             return cache;
         default:
             throw new Error('No key for api cache value');
@@ -49,23 +48,23 @@ apiRouter.get('/data/all', (req, res) => {
 });
 
 apiRouter.get('/data/melon/recent', (req, res) => {
-    const dataset = getCacheValue('MELON').pop();
-    res.json(dataset);
+    const dataset = getCacheValue('MELON');
+    res.json(dataset[dataset.length - 1]);
 });
 
 apiRouter.get('/data/bugs/recent', (req, res) => {
-    const dataset = getCacheValue('BUGS').pop();
-    res.json(dataset);
+    const dataset = getCacheValue('BUGS');
+    res.json(dataset[dataset.length - 1]);
 });
 
 apiRouter.get('/data/naver/recent', (req, res) => {
-    const dataset = getCacheValue('NAVER').pop();
-    res.json(dataset);
+    const dataset = getCacheValue('NAVER');
+    res.json(dataset[dataset.length - 1]);
 });
 
 apiRouter.get('/data/genie/recent', (req, res) => {
-    const dataset = getCacheValue('GENIE').pop();
-    res.json(dataset);
+    const dataset = getCacheValue('GENIE');
+    res.json(dataset[dataset.length - 1]);
 });
 
 apiRouter.get('/data/all/recent', (req, res) => {

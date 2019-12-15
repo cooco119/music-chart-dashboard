@@ -1,4 +1,4 @@
-export interface RootState {
+export interface DashboardState {
     melon: any[];
     bugs: any[];
     naver: any[];
