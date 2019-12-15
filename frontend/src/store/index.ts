@@ -49,59 +49,48 @@ export default new Vuex.Store<RootState>({
     },
     updateRecentAll: (state, payload) => {
       state.allRecent = payload.dataset;
-      console.log('state', state);
     },
   },
   actions: {
     fetchMelon: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/melon`);
-      const { dataset } = res.data;
-      commit('updateMelon', { dataset });
+      commit('updateMelon', { dataset: res.data });
     },
     fetchBugs: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/bugs`);
-      const { dataset } = res.data;
-      commit('updateBugs', { dataset });
+      commit('updateBugs', { dataset: res.data });
     },
     fetchNaver: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/naver`);
-      const { dataset } = res.data;
-      commit('updateNaver', { dataset });
+      commit('updateNaver', { dataset: res.data });
     },
     fetchGenie: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/genie`);
-      const { dataset } = res.data;
-      commit('updateGenie', { dataset });
+      commit('updateGenie', { dataset: res.data });
     },
     fetchAll: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/all`);
-      const { dataset } = res.data;
-      commit('updateAll', { dataset });
+      commit('updateAll', { dataset: res.data });
     },
     fetchRecentMelon: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/melon/recent`);
-      const { dataset } = res.data;
-      commit('updateRecentMelon', { dataset });
+      commit('updateRecentMelon', { dataset: res.data });
     },
     fetchRecentBugs: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/bugs/recent`);
-      const { dataset } = res.data;
-      commit('updateRecentBugs', { dataset });
+      commit('updateRecentBugs', { dataset: res.data });
     },
     fetchRecentNaver: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/naver/recent`);
-      const { dataset } = res.data;
-      commit('updateRecentNaver', { dataset });
+      commit('updateRecentNaver', { dataset: res.data });
     },
     fetchRecentGenie: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/genie/recent`);
-      const { dataset } = res.data;
-      commit('updateRecentGenie', { dataset });
+      commit('updateRecentGenie', { dataset: res.data });
     },
     fetchRecentAll: async ({ commit }) => {
       const res = await axios.get(`${CONFIG.BACKEND_URL}/api/v1/data/all/recent`);
-      const { dataset } = res.data;
-      commit('updateRecentAll', { dataset });
+      commit('updateRecentAll', { dataset: res.data });
     },
   },
   modules: {

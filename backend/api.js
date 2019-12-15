@@ -69,9 +69,9 @@ apiRouter.get('/data/genie/recent', (req, res) => {
 });
 
 apiRouter.get('/data/all/recent', (req, res) => {
-    const dataset = getCacheValue('ALL').pop();
+    const dataset = getCacheValue('ALL');
     console.log(getCacheValue('ALL'));
-    res.json(dataset);
+    res.json(dataset[dataset.length - 1]);
 });
 
 module.exports = {
