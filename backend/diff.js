@@ -27,17 +27,16 @@ const getDiff = (start, type) => {
     time: (new Date()).toISOString(),
     diff: []
   };
-  let dirty = false;
+  
   recent.data.map(e => {
     const diff = calculateDiff(e, data.map(d => d.data));
     if (diff != null) {
       result.diff.push(diff);
-      dirty === false ? dirty = true : null;
     }
   });
 
   const diffCache = getDiffCache();
-  if (dirty) {
+  if (dayPassed(diffCache[0], result)) {
     diffCache.unshift(result);
     if (diffCache.length > 7) {
       diffCache.pop();
@@ -47,6 +46,18 @@ const getDiff = (start, type) => {
 
   // console.log(`diff: ${JSON.stringify(diffCache, null, 2)}`);
   return diffCache;
+}
+
+const dayPassed = (cache, result) => {
+  const cacheDate = new Date(cache.time);
+  const resultDate = new Date(result.time);
+
+  const dateDiff = resultDate - cacheDate;
+  if (Math.floor(dateDiff / (1000 * 60 * 60 * 24)) >= 1) {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 module.exports = {
