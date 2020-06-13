@@ -87,7 +87,6 @@ export default {
     diff() {
       const data = this.$store.getters[`diff/${this.platform}`].diff;
       if (data.length > 0) {
-        console.log(data);
         return data;
       }
       return [];

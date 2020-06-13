@@ -24,7 +24,7 @@ const getDiff = (start, type) => {
   const recent = data.pop();
 
   const result = {
-    time: (new Date()).toISOString().split("T")[0],
+    time: (new Date()).toISOString(),
     diff: []
   };
   let dirty = false;
@@ -42,7 +42,7 @@ const getDiff = (start, type) => {
     setDiffCache(diffCache);
   }
 
-  console.log(`diff: ${JSON.stringify(diffCache, null, 2)}`);
+  // console.log(`diff: ${JSON.stringify(diffCache, null, 2)}`);
   return diffCache;
 }
 
