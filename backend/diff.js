@@ -39,6 +39,9 @@ const getDiff = (start, type) => {
   const diffCache = getDiffCache();
   if (dirty) {
     diffCache.unshift(result);
+    if (diffCache.length > 7) {
+      diffCache.pop();
+    }
     setDiffCache(diffCache);
   }
 
