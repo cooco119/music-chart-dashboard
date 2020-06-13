@@ -13,7 +13,7 @@
               <th>현재 순위</th>
               <th>타이틀</th>
               <th>아티스트</th>
-              <th v-for="elem of diff" :key="elem.time">{{ calculateDiffDay(elem) }}</th>
+              <th v-for="elem of diff" :key="elem.time">D+{{ calculateDiffDay(elem) }}</th>
             </tr>
           </thead>
           <tbody>
