@@ -36,7 +36,7 @@ const getDiff = (start, type) => {
   });
 
   const diffCache = getDiffCache();
-  if (dayPassed(diffCache[0], result)) {
+  if (diffCache.length > 0 && dayPassed(diffCache[0], result)) {
     diffCache.unshift(result);
     if (diffCache.length > 7) {
       diffCache.pop();
