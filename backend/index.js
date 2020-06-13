@@ -9,10 +9,11 @@ const PORT = 5000;
 const main = async () => {
     swapIn();
     await updateCache();
-    cron.schedule('1 * * * *', () => {
+    cron.schedule('*/1 * * * *', () => {
         updateCache();
+        console.log(`[${(new Date()).toISOString()}] Updating cache`);
     });
-
+    
     const app = express();
     app.use(cors());
     app.use('/api/v1', api.apiRouter);

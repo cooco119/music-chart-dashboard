@@ -4,7 +4,8 @@
   "description": "Music chart dashboard - hourly data for melon, genie, naver music, and bugs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Jaejun Lee <cooco119@gmail.com>",
   "license": "MIT",

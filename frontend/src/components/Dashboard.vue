@@ -4,142 +4,150 @@
     <div v-if="loaded">
       <v-container style="max-width: 100%">
         <v-row dense style="width: 100%;">
-          <v-col>
-            <v-card>
-              <div>
-                <v-card-title>멜론 실시간 차트</v-card-title>
-                <v-card-text>
-                  <div>{{ fetchDate }}</div>
-                </v-card-text>
-                <v-simple-table height="600px">
-                  <template v-slot:default>
-                    <thead>
-                      <tr>
-                        <th>순위</th>
-                        <th>타이틀</th>
-                        <th>아티스트</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr
-                        v-for="elem in loadedData.melonData.data"
-                        :key="`melon_${elem.name}_${elem.artist}`"
-                      >
-                        <td md-numeric>{{ elem.rank }}</td>
-                        <td>
-                          <img :src="elem.albumImg" />
-                          {{ elem.name }}
-                        </td>
-                        <td>{{ elem.artist }}</td>
-                      </tr>
-                    </tbody>
-                  </template>
-                </v-simple-table>
-              </div>
-            </v-card>
-          </v-col>
-          <v-col>
-            <v-card>
-              <div>
-                <v-card-title>벅스 실시간 차트</v-card-title>
-                <v-card-text>
-                  <div>{{ fetchDate }}</div>
-                </v-card-text>
-                <v-simple-table height="600px">
-                  <template v-slot:default>
-                    <thead>
-                      <tr>
-                        <th>순위</th>
-                        <th>타이틀</th>
-                        <th>아티스트</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr
-                        v-for="elem in loadedData.bugsData.data"
-                        :key="`bugs_${elem.name}_${elem.artist}`"
-                      >
-                        <td md-numeric>{{ elem.rank }}</td>
-                        <td>
-                          <img :src="elem.albumImg" />
-                          {{ elem.name }}
-                        </td>
-                        <td>{{ elem.artist }}</td>
-                      </tr>
-                    </tbody>
-                  </template>
-                </v-simple-table>
-              </div>
-            </v-card>
-          </v-col>
-          <v-col>
-            <v-card>
-              <div>
-                <v-card-title>네이버 실시간 차트</v-card-title>
-                <v-card-text>
-                  <div>{{ fetchDate }}</div>
-                </v-card-text>
-                <v-simple-table height="600px">
-                  <template v-slot:default>
-                    <thead>
-                      <tr>
-                        <th>순위</th>
-                        <th>타이틀</th>
-                        <th>아티스트</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr
-                        v-for="elem in loadedData.naverData.data"
-                        :key="`naver_${elem.name}_${elem.artist}`"
-                      >
-                        <td md-numeric>{{ elem.rank }}</td>
-                        <td>
-                          <img :src="elem.albumImg" />
-                          {{ elem.name }}
-                        </td>
-                        <td>{{ elem.artist }}</td>
-                      </tr>
-                    </tbody>
-                  </template>
-                </v-simple-table>
-              </div>
-            </v-card>
-          </v-col>
-          <v-col>
-            <v-card>
-              <div>
-                <v-card-title>지니 실시간 차트</v-card-title>
-                <v-card-text>
-                  <div>{{ fetchDate }}</div>
-                </v-card-text>
-                <v-simple-table height="600px">
-                  <template v-slot:default>
-                    <thead>
-                      <tr>
-                        <th>순위</th>
-                        <th>타이틀</th>
-                        <th>아티스트</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr
-                        v-for="elem in loadedData.genieData.data"
-                        :key="`genie_${elem.name}_${elem.artist}`"
-                      >
-                        <td md-numeric>{{ elem.rank }}</td>
-                        <td>
-                          <img :src="elem.albumImg" />
-                          {{ elem.name }}
-                        </td>
-                        <td>{{ elem.artist }}</td>
-                      </tr>
-                    </tbody>
-                  </template>
-                </v-simple-table>
-              </div>
-            </v-card>
-          </v-col>
+          <v-carousel
+            height="100%"
+            light
+            continuous
+            show-arrows-on-hover
+            hide-delimiter-background
+          >
+            <v-carousel-item>
+              <v-card>
+                <div>
+                  <v-card-title>멜론 실시간 차트</v-card-title>
+                  <v-card-text>
+                    <div>{{ fetchDate }}</div>
+                  </v-card-text>
+                  <v-simple-table height="600px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th>순위</th>
+                          <th>타이틀</th>
+                          <th>아티스트</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr
+                          v-for="elem in loadedData.melonData.data"
+                          :key="`melon_${elem.name}_${elem.artist}`"
+                        >
+                          <td md-numeric>{{ elem.rank }}</td>
+                          <td>
+                            <img :src="elem.albumImg" />
+                            {{ elem.name }}
+                          </td>
+                          <td>{{ elem.artist }}</td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </div>
+              </v-card>
+            </v-carousel-item>
+            <v-carousel-item>
+              <v-card>
+                <div>
+                  <v-card-title>벅스 실시간 차트</v-card-title>
+                  <v-card-text>
+                    <div>{{ fetchDate }}</div>
+                  </v-card-text>
+                  <v-simple-table height="600px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th>순위</th>
+                          <th>타이틀</th>
+                          <th>아티스트</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr
+                          v-for="elem in loadedData.bugsData.data"
+                          :key="`bugs_${elem.name}_${elem.artist}`"
+                        >
+                          <td md-numeric>{{ elem.rank }}</td>
+                          <td>
+                            <img :src="elem.albumImg" />
+                            {{ elem.name }}
+                          </td>
+                          <td>{{ elem.artist }}</td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </div>
+              </v-card>
+            </v-carousel-item>
+            <v-carousel-item>
+              <v-card>
+                <div>
+                  <v-card-title>네이버 실시간 차트</v-card-title>
+                  <v-card-text>
+                    <div>{{ fetchDate }}</div>
+                  </v-card-text>
+                  <v-simple-table height="600px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th>순위</th>
+                          <th>타이틀</th>
+                          <th>아티스트</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr
+                          v-for="elem in loadedData.naverData.data"
+                          :key="`naver_${elem.name}_${elem.artist}`"
+                        >
+                          <td md-numeric>{{ elem.rank }}</td>
+                          <td>
+                            <img :src="elem.albumImg" />
+                            {{ elem.name }}
+                          </td>
+                          <td>{{ elem.artist }}</td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </div>
+              </v-card>
+            </v-carousel-item>
+            <v-carousel-item>
+              <v-card>
+                <div>
+                  <v-card-title>지니 실시간 차트</v-card-title>
+                  <v-card-text>
+                    <div>{{ fetchDate }}</div>
+                  </v-card-text>
+                  <v-simple-table height="600px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th>순위</th>
+                          <th>타이틀</th>
+                          <th>아티스트</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr
+                          v-for="elem in loadedData.genieData.data"
+                          :key="`genie_${elem.name}_${elem.artist}`"
+                        >
+                          <td md-numeric>{{ elem.rank }}</td>
+                          <td>
+                            <img :src="elem.albumImg" />
+                            {{ elem.name }}
+                          </td>
+                          <td>{{ elem.artist }}</td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </div>
+              </v-card>
+            </v-carousel-item>
+          </v-carousel>
         </v-row>
       </v-container>
     </div>

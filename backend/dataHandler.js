@@ -8,6 +8,7 @@ const naver = require('./util/naver');
 const MAX_CACHE_LENGTH = 100000;
 const SWAP_FILE = 'swap.json';
 let cache = [];
+let diffCache = [];
 
 const CACHE_TYPE = {
     MELON: 'MELON',
@@ -75,11 +76,21 @@ const getCacheValue = (key) => {
     }
 };
 
+const setDiffCache = (data) => {
+    diffCache = data;
+};
+
+const getDiffCache = () => {
+    return diffCache;
+};
+
 module.exports = {
     getRecentData,
     updateCache,
     getCache,
     getCacheValue,
     swapIn,
+    setDiffCache,
+    getDiffCache,
     CACHE_TYPE,
 }

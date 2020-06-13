@@ -6,7 +6,7 @@
       --->
     </div>
     <div v-if="loaded">
-      <v-simple-table>
+      <v-simple-table class="table">
         <template v-slot:default>
           <thead>
             <tr>
@@ -28,7 +28,7 @@
               </td>
               <td>{{ elem.artist }}</td>
               <td v-for="diffElem of diff" :key="diffElem.time">
-                {{ diffElem.diff }}
+                {{ calculateDiffForElem(diffElem, elem) }}
               </td>
             </tr>
           </tbody>
@@ -86,10 +86,9 @@ export default {
     },
     diff() {
       const data = this.$store.getters[`diff/${this.platform}`].diff;
-      for (const e of data) {
-        if (e.length > 0) {
-          return data;
-        }
+      if (data.length > 0) {
+        console.log(data);
+        return data;
       }
       return [];
     }
@@ -98,11 +97,18 @@ export default {
     calculateDiffDay(elem) {
       const diffTime =  new Date(this.recent.time) - new Date(elem.time);
       return Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    },
+    calculateDiffForElem(diffElem, elem) {
+      const target = diffElem.diff.filter(e => e.name === elem.name && e.artist === elem.artist)[0];
+      if (target.diff === 0) {
+        return "-";
+      }
+      return target.diff;
     }
   },
   async mounted() {
     await this.$store.dispatch(`recent/${this.fetchFunction}`);
-    await this.$store.dispatch(`diff/${this.fetchFunction}`, { start: '2019-12-15' });
+    await this.$store.dispatch(`diff/${this.fetchFunction}`, { start: '2020-06-13' });
     this.loaded = true;
   }
 }
@@ -111,5 +117,8 @@ export default {
 img {
   max-width: 30px;
   max-height: 30px;
+}
+.table {
+  overflow-x: scroll;
 }
 </style>
